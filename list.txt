@@ -1,0 +1,7 @@
+banana
+car
+chair
+flute
+hello
+robot
+shoe
